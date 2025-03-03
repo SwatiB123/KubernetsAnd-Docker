@@ -17,7 +17,7 @@ function App() {
 
       {/* Hero Section */}
       <section className="hero">
-        <h1>Welcome to My Beautiful Website</h1>
+        <h1>Welcome to My Website</h1>
         <p>Your journey to an amazing experience starts here.</p>
         <button className="cta-button">Get Started</button>
       </section>
